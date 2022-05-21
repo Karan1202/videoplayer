@@ -1,0 +1,16 @@
+body{
+  background-image: url('back.jpg');
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
+h1{
+  font-style: oblique;
+  text-align: center;
+  color: #2F8F9D;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  margin-top: -2em;
+}
